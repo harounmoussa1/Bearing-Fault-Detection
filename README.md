@@ -42,7 +42,7 @@ Raw Signals (100k pts)
 ---
 
 ## Project Structure
-├── PS3.ipynb          # Main notebook (full pipeline)
+├── PS3.ipynb
 ├── README.md
 └── requirements.txt
 
